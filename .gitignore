@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # project architecure files
-/public/project-architecture
+/src/project-architecture
